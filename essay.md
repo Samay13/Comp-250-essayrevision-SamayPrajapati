@@ -4,6 +4,8 @@ title: "Implications of Artificial Intelligence in Social Media Platforms"
 
 author: "Samay Prajapati"
 
+bibliography: references.json
+
 \---
 
 
@@ -36,7 +38,7 @@ When false information spreads online, it can harm reputations of people, influe
 
 The issue isn't exactly with how advanced AI becomes, but how it is used.
 
-So, although the use of AI in social media can greatly help people in everyday life, it also raises significant ethical concerns, such as the spread of misinformation and violation of user privacy that shows the urgent need for responsible AI design and regulation.
+So, although the use of AI in social media can greatly help people in everyday life, it also raises significant ethical concerns, such as the spread of misinformation and violation of user privacy that shows the urgent need for responsible AI design and regulation. <!--My claim-->
 
 Artificial Intelligence has also created social habits that didn't exist in previous years.
 
@@ -56,7 +58,7 @@ The conversation about AI in social media is not only about technology itself, b
 
 Every click or scroll trains these systems to learn more about people, sometimes even better than they know themselves.
 
-As society continues to grow more dependent on AI, being able to understand and regulate their influential power is essential for maintaining freedom of thought.
+As society continues to grow more dependent on AI, being able to understand and regulate their influential power is essential for maintaining freedom of thought. <!--Context of my argument-->
 
 
 
@@ -348,7 +350,7 @@ But if used incorrectly, it can easily break trust with people, fairness, and th
 
 Society must approach AI with caution.
 
-We need to recognize that even though AI can help human progress greatly, it can also create more problems in the future.
+We need to recognize that even though AI can help human progress greatly, it can also create more problems in the future. <!--Problem addressed in my argument-->
 
 The future of AI depends not only on what machines can do, but really on what people choose to let them do.
 
